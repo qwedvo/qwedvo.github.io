@@ -1,0 +1,100 @@
+body{
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Sans;
+}
+
+p{
+	margin: 16px;
+	font-size: 1.2em;
+}
+
+h2{
+	margin: 32px 16px 16px;
+	text-align: center;
+}
+
+img{
+	margin: 16px;
+}
+
+.levo{
+	float: left;
+}
+
+.desno{
+	float: right;
+}
+
+table, th, td{
+	border: 1px solid gray;
+	border-collapse: collapse;
+}
+
+th{
+	font-size: 1.55em;
+	padding: 2px;
+}
+td{
+	font-size: 1.25em;
+	padding: 4px;
+}
+/*	Red
+		#2D201F
+		#662D26
+		#BB5547
+		#D39087
+		#FFDFDB
+		
+	Brown
+		#FFF0DB
+		#D3B587
+		#BB8E47
+		#664D26
+		#2D271F
+		
+	Yellow
+		#FBFFDB
+		#C9D387
+		#ACBB47
+		#5E6626
+		#2C2D1F
+
+	Green
+		#DBFFE0
+		#87D392
+		#47BB58
+		#26654F
+		#1F2D20
+		
+	Cyan
+		#DBFBFF
+		#87C9D3
+		#47ACBB
+		#265E66
+		#1F2C2D
+
+	Blue
+		#DBE9FF
+		#87A4D3
+		#4773BB
+		#263E66
+		#1F252D
+		
+	Violet
+		#F0DBFF
+		#B587D3
+		#8E47BB
+
+		#4D2665
+		#271F2D		
+	
+	Gray
+		#EDEDED
+		#ADADAD
+		#818181
+		#464646
+		#262626
+		
+	box-shadow: 0px 0px 4px #818181;
+*/

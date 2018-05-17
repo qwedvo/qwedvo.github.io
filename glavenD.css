@@ -1,0 +1,124 @@
+body{
+	background-color: #000000;
+	color: #FFFFFF;
+	font-family: Sans;
+	overflow: hidden;	
+	align-content: center;
+}
+hr{
+	margin: 0;
+	background-color: #FFFFFF;
+}
+#logo{
+	text-align: center;
+}
+#bigNav{
+	height: 1px;
+}
+.izvorSlika{
+	height: 100%;
+	width: 10.5%;
+	padding: 0 1%;
+	object-fit: scale-down;
+}
+#nazad{
+	height: 48px;
+	width: 48px;
+	display: none;
+	position: absolute;
+	top: 16px;
+	left: 12px;
+}
+#topka{
+	display: none;
+	position: absolute;
+}
+#ramka{
+	height: 0;
+	width: 100%;
+	border: 0;
+}
+form{
+	position: absolute;
+	bottom: 0px;
+}
+input{
+	border: 0;
+	margin: 5px 0;
+	padding: 4px 8px;
+}
+#en, #mk, #light, #brojach{
+	position: fixed;
+	top: 16px;
+}
+#en{
+	right: 16px;	
+}
+#mk{
+	right: 80px;	
+}
+#light{
+	right: 142px;	
+}
+#brojach{
+	right: 202px;	
+}
+/*	Red
+		#2D201F
+		#662D26
+		#BB5547
+		#D39087
+		#FFDFDB
+		
+	Brown
+		#FFF0DB
+		#D3B587
+		#BB8E47
+		#664D26
+		#2D271F
+		
+	Yellow
+		#FBFFDB
+		#C9D387
+		#ACBB47
+		#5E6626
+		#2C2D1F
+
+	Green
+		#DBFFE0
+		#87D392
+		#47BB58
+		#26654F
+		#1F2D20
+		
+	Cyan
+		#DBFBFF
+		#87C9D3
+		#47ACBB
+		#265E66
+		#1F2C2D
+
+	Blue
+		#DBE9FF
+		#87A4D3
+		#4773BB
+		#263E66
+		#1F252D
+		
+	Violet
+		#F0DBFF
+		#B587D3
+		#8E47BB
+
+		#4D2665
+		#271F2D		
+	
+	Gray
+		#EDEDED
+		#ADADAD
+		#818181
+		#464646
+		#262626
+		
+	box-shadow: 0px 0px 4px #818181;
+*/
